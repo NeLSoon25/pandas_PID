@@ -1,0 +1,5 @@
+prueba/
+.ipynb_checkpoints/
+*.zip
+.DS_Store
+datasets/
